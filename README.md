@@ -2,19 +2,10 @@
 
 The Store E-commerce Sales Dashboard Power BI Project is a comprehensive sales analysis and visualization dashboard developed using Power BI. The project aims to provide valuable insights into the sales performance of Store eCommerce, enabling data-driven decision-making and actionable strategies.
 
-## Responsibilities
-
 - Data acquisition: Gathering and extracting relevant sales data from various sources.
 - Data modeling: Structuring and transforming the data to create a suitable schema for analysis.
 - Visualization design: Designing the dashboard layout, selecting appropriate visualizations, and ensuring an intuitive user experience.
 - Report generation: Creating informative and visually appealing reports to present insights effectively.
-
-## Achievements
-
-Through this project, the following achievements were realized:
-
-- Improved data accuracy: By carefully validating and cleansing the data, we ensured the accuracy and reliability of the insights generated.
-- Enabled informed decision-making: The dashboard provided stakeholders with key metrics, trends, and visualizations that empowered them to make data-backed decisions.
 
 ## Skills
 
@@ -22,7 +13,8 @@ Through this project, the following achievements were realized:
 - Data analysis
 - Data visualization
   
-##Project Learnings
+## Project Learnings
+
 - Created an interactive dashboard to track and analyze online sales data
 - Used complex parameters to drill down in worksheet and
 customization using filters and slicers
